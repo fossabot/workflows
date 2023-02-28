@@ -68,4 +68,8 @@ The Helm chart CICD will:
 * Create a new helm release
 
 ### A draw of the flow:
-![Workflow](./assets/incluster_component_flow.jpeg)
+![Workflow](./assets/incluster_component_flow.jpeg)[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkubescape%2Fworkflows.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkubescape%2Fworkflows?ref=badge_shield)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkubescape%2Fworkflows.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkubescape%2Fworkflows?ref=badge_large)
